@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oke-Oghene Amuwha</h1>
 <h3 align="center">I dabble in full stack web development and mobile app development</h3>
-<a href="https://okeamuwha.com" target="blank" rel="noreferrer"><img align="right" alt="Logo" width="250" src="https://okeamuwha.com/images/Logo.svg"></a>
+<p align="center"><a href="https://okeamuwha.com" target="blank" rel="noreferrer"><img alt="Logo" width="250" src="https://okeamuwha.com/images/Logo.svg"></a></p>
 
 - I am currently working on a budgeting application called [Budgie](https://github.com/WSU-4110/budgie)
 
