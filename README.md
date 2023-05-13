@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oke-Oghene Amuwha</h1>
-<h3 align="center">I dabble in full stack web development and product design integration</h3>
+<h3 align="center">I dabble in full stack web development and UI/UX design</h3>
 <p align="center"><a href="https://okeamuwha.com" target="blank" rel="noreferrer"><img alt="Logo" width="250" src="https://okeamuwha.com/images/Logo.svg"></a></p>
 
 - I am currently working on a budgeting application called [Budgie](https://github.com/WSU-4110/budgie)
@@ -12,7 +12,7 @@
 
 - How to reach me: **amuwhao46@gmail.com**
 
-- Here's a random fact: **The sun is actually white**
+- Did you know **The sun is actually white**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
